@@ -3,17 +3,5 @@
     "apps": [
       "7AX2MRT4SA.com.coca-cola.ccnamobileapp.Clip"
     ]
-  },
-  "applinks": {
-    "details": [
-      {
-        "appID": "7AX2MRT4SA.com.coca-cola.ccnamobileapp"
-      }
-    ]
-  },
-  "activitycontinuation": {
-    "apps": [
-      "7AX2MRT4SA.com.coca-cola.ccnamobileapp"
-    ]
   }
 }
