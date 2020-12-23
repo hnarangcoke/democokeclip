@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "Z9VSKJ792A.com.coca-cola.ccnamobileapp",
+      "paths": ["*"]
+    }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "Z9VSKJ792A.com.coca-cola.ccnamobileapp.Clip"
+    ]
+  }
+}
